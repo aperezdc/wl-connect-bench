@@ -1,0 +1,5 @@
+*-client.[hc]
+*.o
+/compile_commands.json
+/run
+/.cache/

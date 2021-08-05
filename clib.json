@@ -1,0 +1,7 @@
+{
+  "name": "wl-connect-bench",
+  "version": "0.1.0",
+  "dependencies": {
+    "brendanashworth/bench": "0.0.2"
+  }
+}
